@@ -105,25 +105,6 @@ The selected model was further applied to predict machine failures using new, un
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Machine Learning:** Classification Algorithms
 
-## 📁 Project Structure
-
-```text
-Predictive-Maintenance/
-│
-├── Dataset/
-│   └── ai4i2020.csv
-│
-├── Notebook/
-│   └── Machine_Failure_Prediction.ipynb
-│
-├── README.md
-│
-└── Presentation/
-    └── Project_Presentation.pptx
-```
-
-*Adjust the folder and file names to match your actual GitHub repository.*
-
 ## 🚀 Conclusion
 
 This project demonstrates how Machine Learning can be used to predict industrial machine failures based on operating conditions.
